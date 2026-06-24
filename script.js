@@ -1,7 +1,6 @@
 /*   
    ROUTEX ESCAPADE — script.js
    ML Engine: K-Nearest Neighbors (k=5, Euclidean distance)
-   AI Layer : Claude (Anthropic) for reasoning + real budget
    Auth     : Per-user localStorage sessions
       */
 (function () {
