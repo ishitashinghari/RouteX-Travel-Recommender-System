@@ -1,4 +1,4 @@
-<img width="1600" height="693" alt="WhatsApp Image 2026-06-24 at 17 34 38" src="https://github.com/user-attachments/assets/6181d232-6cbf-4519-a119-fb1131d23962" /># RouteX-Travel-Recommender-System
+# RouteX-Travel-Recommender-System
 
 ### 📍 RouteX Escapade
 
